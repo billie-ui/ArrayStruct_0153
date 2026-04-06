@@ -13,6 +13,18 @@ int main () {
     aku [1] =200;
     cout << endl;
     cout << "data pada index 1 =" << aku [1] << endl;
+        //mengisi satu persatu
+    cout << "data pada index 0 =";
+    cin >> kamu[0];
+    cout << "data pada index 1 =";
+    cin >> kamu[1];
+    cout << "data pada index 2 =";
+    cin >> kamu[2];
+    cout << "data pada index 3 =";
+    cin >> kamu[3];
+    cout << "data pada index 4 =";
+    cin >> kamu[4];
+    cout << endl;
 
 
 }
