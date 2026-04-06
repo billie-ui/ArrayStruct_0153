@@ -9,6 +9,10 @@ int main () {
     int kamu [5];
     //tampilkan data
     cout << "Data Pada Index 1 =" << aku [1] << endl;
+    // ganti index ke 1
+    aku [1] =200;
+    cout << endl;
+    cout << "data pada index 1 =" << aku [1] << endl;
 
 
 }
