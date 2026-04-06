@@ -14,7 +14,7 @@ struct orang
     detailAlamat alamat;
     int umur;
 };
-
+// menambahkan perulangan untuk input data struct
 int main() {
     orang mhs[3];
 
