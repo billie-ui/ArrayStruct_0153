@@ -8,7 +8,7 @@ struct orang
     string alamat;
     int umur;
 };
-
+// menambahkan input data ke struct orang
 int main() {
     orang mhs;
     cout << "Nama : " ;
