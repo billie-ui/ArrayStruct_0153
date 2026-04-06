@@ -34,7 +34,7 @@ int main() {
 
     for (int i = 0; i <= 2; i++)
     {
-      // Tampilan
+      // menampilkan data penduduk menggunakan loop
       cout << " Data penduduk : " << endl;
     cout << " Nama : " << mhs[i].nama << endl;
     cout << " Desa : " << mhs[i].alamat.desa << endl;
